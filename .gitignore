@@ -1,0 +1,22 @@
+# Core WordPress files
+/wp-admin/
+/wp-includes/
+/wp-content/uploads/
+
+# Config
+wp-config.php
+
+# Cache & logs
+*.log
+.cache/
+tmp/
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Node / build stuff (if any)
+node_modules/
+dist/
